@@ -1,9 +1,0 @@
-Every school term, I'm left wondering what I've actually learned. 
-So I decided to visualize it.
-
-I scraped relevant Wikipedia articles from my browsing history and looked at the words in them.
-Using text mining techniques, topics were automatically extracted from the artices.
-
-The word clouds below contain key words for a topic. From left-to-right, top-to-bottom the topics are:
-
-Bayesian Inference, Calculus, Number Theory (the study of prime numbers), Information Retrieval (how search engines get results), Quantum Mechanics, too much Statistics (split into two clusters, one focusing on estimation and the other on tests), Linguistics (specifically, I was studying parts of speech for the Natural Language Processing research I did), and Machine Learning.
