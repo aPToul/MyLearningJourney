@@ -4,7 +4,7 @@ This folder contains a few highlights of my learning journey with Machine Learni
 
 It includes:
 
-1. Classification: a classifier I built to predict the topic of academic papers during my PaperScraper project; 
+1. Classification: a classifier I built to predict the topic of academic papers during my PaperScraper project.
 
 2. Clustering: A project which tracks my favourite topics over time through visualizing my browsing history.
 
